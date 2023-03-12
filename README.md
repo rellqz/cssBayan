@@ -1,1 +1,1 @@
-https://github.com/rellqz/rsschool-cv/blob/gh-pages/cssBayan/index.html
+https://github.com/rellqz/cssBayan#cssbayan
