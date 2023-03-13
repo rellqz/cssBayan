@@ -1,2 +1,1 @@
-https://github.com/rellqz/cssBayan#cssbayan
- 
+https://rellqz.github.io/cssBayan/cssBayan/index.html
